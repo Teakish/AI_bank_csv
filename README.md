@@ -16,3 +16,6 @@ Catboost was then used to plot several models.
 
 A brief review of the notebook in colabs can be seen in this video:
 https://youtu.be/Es4qEyoS5ys
+
+Dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing
+Tutorial: https://colab.research.google.com/github/pycaret/pycaret/blob/master/tutorials/Tutorial%20-%20Multiclass%20Classification.ipynb
